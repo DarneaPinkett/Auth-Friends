@@ -1,6 +1,6 @@
 import React from "react";
 import AddFriend from "./AddFriend";
-import {axiosWithAuth} from 
+import {axiosWithAuth} from "../Utilities"
 
 class FriendsList extends React.Component {
     state= {
